@@ -1,0 +1,14 @@
+{
+  "name": "springboot-suite",
+  "owner": {
+    "name": "shankhanraman"
+  },
+  "plugins": [
+    {
+      "name": "springboot-suite",
+      "source": "./springboot-suite",
+      "description": "Complete Spring Boot backend development suite — production conventions, spec-driven docs-first delivery, and full CI/CD pipeline (GitHub Actions → Argo CD → EKS + Terraform). Includes Claude Code hooks for file protection and auto-formatting.",
+      "version": "1.0.0"
+    }
+  ]
+}

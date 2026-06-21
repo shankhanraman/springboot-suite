@@ -1,0 +1,9 @@
+{
+  "name": "springboot-suite",
+  "version": "1.0.0",
+  "description": "Complete Spring Boot backend development suite — production conventions, spec-driven docs-first delivery, and full CI/CD pipeline (GitHub Actions → Argo CD → EKS + Terraform). Includes Claude Code hooks for file protection and auto-formatting.",
+  "author": {
+    "name": "shankhanraman",
+    "email": "shankhan.raman@gmail.com"
+  }
+}
